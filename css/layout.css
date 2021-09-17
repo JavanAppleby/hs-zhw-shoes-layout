@@ -16,12 +16,47 @@
   visibility: hidden;
   height: 0;
   line-height: 0;
+
 }
 
-.clear {
-  clear: both;
-}
+
 
 /* Positioning Classes */
+.summer-grass {
+  width: 70%;
+  height: 600px;
+  float: left;
+  margin-right: 24px;
+}
 
+.shoe-archive {
+  width: 27.5%;
+  margin-bottom: 20px;
+  height: 600px;
+  overflow: auto;
+}
 
+.deals {
+  column-count: 3;
+}
+
+section#details {
+  column-count: 3;
+  width: 74%;
+  margin-left: 180px;
+}
+
+.contact {
+  width: 31.333%;
+  float: left;
+  margin-right: 700px;
+}
+
+.links {
+  width: 31.333%;
+  float: left;
+}
+
+.follow {
+  width: 31.333%;
+}
